@@ -15,3 +15,10 @@
 
   * [Abonnement à la liste de diffusion](https://framalistes.org/sympa/subscribe/coding-dojo-aix)
   * Mon compte twitter [duckmole](https://twitter.com/duckmole)
+
+
+## Planning
+
+### Session 1
+
+  Sondage pour sélectionner la date de notre première session : [Sondage #1](https://framadate.org/coding-dojo-aix-1)
