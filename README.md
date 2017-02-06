@@ -21,4 +21,4 @@
 
 ### Session 1
 
-  Sondage pour sélectionner la date de notre première session : [Sondage #1](https://framadate.org/coding-dojo-aix-1)
+  La première session aura lieu Jeudi 9 février à 14h à Lou Pantaï (10 de la fontaine d'Argent, 13100 Aix en Provence)
