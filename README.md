@@ -21,4 +21,4 @@
 
 ### Session 1
 
-  La première session aura lieu Jeudi 9 février à 14h à Lou Pantaï (10 de la fontaine d'Argent, 13100 Aix en Provence)
+  La première session aura lieu Jeudi 9 février 12h à 14h à Lou Pantaï (10 de la fontaine d'Argent, 13100 Aix en Provence)
