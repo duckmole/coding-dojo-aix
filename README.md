@@ -21,4 +21,12 @@
 
 ### Session 1
 
-  La première session aura lieu Jeudi 9 février 12h à 14h à Lou Pantaï (10 de la fontaine d'Argent, 13100 Aix en Provence)
+  La première session a eu lieu Jeudi 9 février de midi à 14h à Lou Pantaï (10 de la fontaine d'Argent, 13100 Aix en Provence)
+
+  Notre kata du jour était un grand classique [BowlingKata](http://codingdojo.org/kata/Bowling/) en ruby.
+
+  Merci à toutes les personnes présentes.
+
+### Session 2
+
+  Une deuxième session aura en mars [Votez pour choisir la date](https://framadate.org/p7n6VB99SEMcrtQO)
