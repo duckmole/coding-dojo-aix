@@ -29,4 +29,6 @@
 
 ### Session 2
 
-  Une deuxième session aura en mars [Votez pour choisir la date](https://framadate.org/p7n6VB99SEMcrtQO)
+  La deuxième session aura lieu le Jeudi 2 mars à 19h chez [ServeBox](https://servebox.com/) / Lou Pantaï (10 de la fontaine d'Argent, 13100 Aix en Provence)
+
+  Nous coderons encore le [BowlingKata](http://codingdojo.org/kata/Bowling/) mais cette fois-ci en Elixir
