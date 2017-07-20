@@ -23,16 +23,20 @@
 
   Date | Nom de la session | Langage utilisé
   -----|-------------------|----------------
-  09/09/2017 | Bowling Kata #1 | Ruby
+  09/02/2017 | Bowling Kata #1 | Ruby
   02/03/2017 | Bowling Kata #2 | Exilir
   13/04/2017 | NedStark.hs | Haskell
   11/05/2017 | KhalDrogo.elm | ELM
-  08/06/2017 | robb_stark.ex | Elixir
+  08/06/2017 | robb_stark.ex | elixir
   20/07/2017 | CatelynStark.js | JavaScript
+  10/08/2017 | shireen_baratheon.ex| elixir
+  14/09/2017 | myrcella_baratheon.ex | elixir
+
+## Sessions
 
 ### Bowling Kata #1
 
-  Notre kata du jour était un grand classique [BowlingKata](http://codingdojo.org/kata/Bowling/) en ruby.
+  Notre kata du jour était un grand classique [BowlingKata](http://codingdojo.org/kata/Bowling/) en Ruby.
 
   Les différentes implémentations sont disponibles sur exercism.io [Coding Dojo by Servebox](http://exercism.io/teams/codingdojo-servebox/streams).
 
@@ -54,10 +58,18 @@
 
 ### Robb Stark
 
-  Nous avons codé avec des process, du rechargement de code à chaud et des tests en elixir. Nous nous sommes inspirés du kata [Bob en Elixir](http://exercism.io/exercises/elixir/bob/readme)
+  Nous avons codé avec des process, du rechargement de code à chaud et des tests en elixir. Nous nous sommes inspirés du kata [Bob en elixir](http://exercism.io/exercises/elixir/bob/readme)
 
-  Le code de notre [Adolescent Bob en Elixir](https://github.com/duckmole/elixir-bob)
+  Le code de notre [Adolescent Bob en elixir](https://github.com/duckmole/elixir-bob)
 
 ### Catelyn Stark
 
   En été on s'amuse avec des jeux et [PixiJS](http://www.pixijs.com/)
+
+### shireen_baratheon.ex
+
+  Le jeu de la vie en elixir en utilisant des messages asynchrones
+
+### myrcella_baratheon.ex
+
+  Le jeu de la vie en elixir en utilisant des messages synchrones
