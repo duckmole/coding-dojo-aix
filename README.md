@@ -11,7 +11,7 @@
   Tout ce qui nous passe sous la main.
 
   Il est même possible qu'un jour nous nous essayerons de code en [Rust](https://fr.wikipedia.org/wiki/Rust_(langage)),
-  en (Smalltalk)(https://fr.wikipedia.org/wiki/Smalltalk] voir même en [Forth](https://fr.wikipedia.org/wiki/Forth_(langage))
+  en [Smalltalk](https://fr.wikipedia.org/wiki/Smalltalk) voir même en [Forth](https://fr.wikipedia.org/wiki/Forth_(langage))
 
 
 ## Pour s'informer
