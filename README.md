@@ -66,10 +66,10 @@
 
   En été on s'amuse avec des jeux et [PixiJS](http://www.pixijs.com/)
 
-### shireen_baratheon.ex
+### Shireen Baratheon
 
   Le jeu de la vie en elixir en utilisant des messages asynchrones
 
-### myrcella_baratheon.ex
+### Myrcella Baratheon
 
   Le jeu de la vie en elixir en utilisant des messages synchrones
