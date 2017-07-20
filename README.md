@@ -11,7 +11,7 @@
   Tout ce qui nous passe sous la main.
 
   Il est même possible qu'un jour nous nous essayerons de code en [Rust](https://fr.wikipedia.org/wiki/Rust_(langage)),
-  en [Smalltalk](https://fr.wikipedia.org/wiki/Smalltalk] voir même en [Forth](https://fr.wikipedia.org/wiki/Forth_(langage))
+  en (Smalltalk)(https://fr.wikipedia.org/wiki/Smalltalk] voir même en [Forth](https://fr.wikipedia.org/wiki/Forth_(langage))
 
 
 ## Pour s'informer
@@ -50,13 +50,13 @@
 
 ### Khal Drogo
 
-  le code de notre [pacman en ELM](https://github.com/duckmole/elm-pacman)
+  Le code de notre [pacman en ELM](https://github.com/duckmole/elm-pacman)
 
 ### Robb Stark
 
   Nous avons codé avec des process, du rechargement de code à chaud et des tests en elixir. Nous nous sommes inspirés du kata [Bob en Elixir](http://exercism.io/exercises/elixir/bob/readme)
 
-  le code de notre [Adolescent Bob en Elixir](https://github.com/duckmole/elixir-bob)
+  Le code de notre [Adolescent Bob en Elixir](https://github.com/duckmole/elixir-bob)
 
 ### Catelyn Stark
 
