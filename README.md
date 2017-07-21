@@ -10,7 +10,7 @@
 
   Tout ce qui nous passe sous la main.
 
-  Il est même possible qu'un jour nous nous essayerons de code en [Rust](https://fr.wikipedia.org/wiki/Rust_(langage)),
+  Il est même possible qu'un jour nous nous essayerons de coder en [Rust](https://fr.wikipedia.org/wiki/Rust_(langage)),
   en [Smalltalk](https://fr.wikipedia.org/wiki/Smalltalk) voir même en [Forth](https://fr.wikipedia.org/wiki/Forth_(langage))
 
 
@@ -24,7 +24,7 @@
   Date | Nom de la session | Langage utilisé
   -----|-------------------|----------------
   09/02/2017 | Bowling Kata #1 | Ruby
-  02/03/2017 | Bowling Kata #2 | Exilir
+  02/03/2017 | Bowling Kata #2 | elixir
   13/04/2017 | NedStark.hs | Haskell
   11/05/2017 | KhalDrogo.elm | ELM
   08/06/2017 | robb_stark.ex | elixir
